@@ -5,12 +5,6 @@ Welcome to the **Restaurant Website** — a fully responsive, stylish, and inter
 
 ---
 
-## 🌍 Live Preview
-
-> Add your live website URL here (e.g., GitHub Pages or Netlify)
-
----
-
 ## 📄 Project Description
 
 This restaurant website includes:
