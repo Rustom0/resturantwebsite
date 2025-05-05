@@ -104,7 +104,6 @@ restaurant-website/
 **Name:** Rustom Dewan  
 **Email:** rustomdewan23@gmail.com  
 **Location:** Cyprus  
-**LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
 
 ---
 
